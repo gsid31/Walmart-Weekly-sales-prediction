@@ -8,5 +8,5 @@ Input dataset
 My work
 ====================
 1. Walmart Sales Prediction.ipynb : Python data science code of 6 regression algorithms
-Walmart Sales Prediction Final Report.pdf : The final report and documentation of my work
-MongoDB_Collections.csv : Copy of my database collections used to store each of the 51 data models and their results
+2. Walmart Sales Prediction Final Report.pdf : The final report and documentation of my work
+3. MongoDB_Collections.csv : Copy of my database collections used to store each of the 51 data models and their results
